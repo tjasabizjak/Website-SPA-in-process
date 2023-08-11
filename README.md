@@ -1,5 +1,5 @@
 # Website-SPA -> IN PROCESS
-Website-SPA (I'm currently still working on this website and will upload new files when I'm finished)
+I'm currently still working on this website and will upload new files when I'm finished
 To do:
 - Include Google Reviews
 - Include Google maps
